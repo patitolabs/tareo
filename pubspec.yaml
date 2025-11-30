@@ -1,7 +1,6 @@
 name: tareo
 description: "A simple Flutter app for reporting daily support activities to a PocketBase backend"
 publish_to: 'none'
-version: 1.0.0+1
 
 environment:
   sdk: ^3.10.1
